@@ -11,6 +11,7 @@ namespace VS2019_CSharpGitDemo
             Console.WriteLine("Changes from Github");
             Console.WriteLine("Added line to see changes in code");
             Console.WriteLine("Changes made on Github Again");
+            Console.WriteLine("Changes made on Github Again #1");
         }
     }
 }
